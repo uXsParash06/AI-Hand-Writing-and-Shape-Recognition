@@ -1,0 +1,4 @@
+opencv-python
+mediapie
+numpy
+pytesseract
